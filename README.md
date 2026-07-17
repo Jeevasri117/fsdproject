@@ -1,1 +1,1 @@
-# fsdproject
+# Faculty Workload Manager
